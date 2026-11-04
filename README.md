@@ -94,6 +94,12 @@ The server keeps running after the CLI exits, so `clawboo stop` and `clawboo res
 
 ---
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Clawboo/)
+
+---
+
 ## Your AI tools, one team
 
 Every agent is a Boo, and Boo Zero, in red, is your team lead. It runs on Clawboo's built-in runtime by default (or on Codex if you set up with only a ChatGPT sign-in), and it hands jobs to teammates on any tool you have connected. Codex, Claude Code and Hermes agents wear their own Boo.
